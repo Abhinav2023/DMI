@@ -7,8 +7,6 @@ DMI
  
 |__ Report
 
-|__ Code file
-
 Assignment 3
 
 |__ Report
