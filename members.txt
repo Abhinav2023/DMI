@@ -1,22 +1,3 @@
-# DMI
-DMI
- - Assignment 1
- - Assignment 3
- 
- Assignment 1
-
-|__ Report
-
-|__ Code file
-
-Assignment 3
-
-|__ Report
-
-|__ Code file
-
-
-
 Group Members:-
 1. Abhinav Bansal (IIT2018155)
 2. Neelabh Gupta  (IIT2018168)
