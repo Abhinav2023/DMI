@@ -1,25 +1,16 @@
 # DMI
-DMI
- - Assignment 1
- - Assignment 3
- 
- Assignment 1
+Assignment For 6th Semester Course Data Mining and Warehouse course
 
-|__ Report
-
-|__ Code file
-
-Assignment 3
-
-|__ Report
-
-|__ Code file
-
+ - Assignment-1 (K-Times Markov Sampling for SVMC) <br/>
+ - Assignment-3 (The Generalization Ability of SVM 
+ Classification) <br/>
+ - Assignment-7 (A One-Class Classification Decision Tree) <br/>
 
 
 Group Members:-
-1. Abhinav Bansal (IIT2018155)
-2. Neelabh Gupta  (IIT2018168)
-3. Ankit Raj      (IIT2018174)
-4. Ashish Patel   (IIT2018175)
-5. Shubham Soni   (IIT2018177)
+
+1. Abhinav Bansal (IIT2018155) <br/>
+2. Neelabh Gupta  (IIT2018168) <br/>
+3. Ankit Raj      (IIT2018174) <br/>
+4. Ashish Patel   (IIT2018175) <br/>
+5. Shubham Soni   (IIT2018177) <br/>
